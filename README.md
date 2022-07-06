@@ -24,7 +24,7 @@
 4. 输入以下命令
 
 ```shell
-wget -N https://raw.githubusercontent.com/Misaka-blog/GX/master/misaka.sh && bash misaka.sh
+wget -N https://raw.githubusercontent.com/mskku999/GX/master/misaka.sh && bash misaka.sh
 ```
 
 5. 配置端口转发
